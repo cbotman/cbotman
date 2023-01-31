@@ -1,6 +1,6 @@
 ### Kaya wer wanjoo (hello and welcome)! 👋
 
-I am a husband, dad, 🥝 Kiwi, web & mobile developer, uni student, 🌱 [bushcare volunteer](https://bpginc.info/) and nerd, living on Whadjuk Noongar Boodjar. I like programming for fun (especially retro-inspired stuff) and to help others.
+I am a husband, dad, 🥝 Kiwi, software developer (manager by day), uni student, 🌱 [bushcare volunteer](https://bpginc.info/) and geek, living in Mandjoogoordap (Mandurah).
 
 <!--
 **cbotman/cbotman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
