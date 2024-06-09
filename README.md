@@ -1,6 +1,6 @@
 ### Kaya wer wanjoo (hello and welcome)! 👋
 
-I am a husband, dad, 🥝 Kiwi, software developer (manager, these days), student, 🌱 nature lover and geek, living in Mandjoogoordap.
+I am a husband, dad, 🥝 Kiwi, software developer (manager, these days), student (of life!), 🌱 nature lover and geek, living in Mandjoogoordap.
 
 <!--
 **cbotman/cbotman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
